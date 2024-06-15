@@ -1,4 +1,4 @@
-![Untitled](https://github.com/PairUptogether/.github/assets/94972492/2793614e-4f1a-498f-859a-91e6d75b7e5e)# Pairup
+# Pairup
 
 ## Overview
 
